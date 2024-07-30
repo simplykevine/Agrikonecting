@@ -8,6 +8,7 @@ Agrikonect is a web platform that connects farmers directly with buyers, elimina
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -18,6 +19,14 @@ Agrikonect is a web platform that connects farmers directly with buyers, elimina
 - **Fair Pricing:** Ensures fair prices for both farmers and buyers by eliminating the middlemen.
 - **Wide Variety:** Includes various categories such as cash crops, food crops, and more.
 - **Responsive Design:** Accessible on different devices, including desktops, tablets, and smartphones.
+
+## Mission
+
+This project addresses key issues in the agricultural supply chain, including price manipulation by middlemen and lack of market access for farmers. It was chosen for its potential impact on improving the livelihoods of farmers and providing buyers with fresh produce at reasonable prices.
+
+## Target Audience
+
+Our target audience includes people with access to phones who are interested in buying fresh produce directly from farmers. This includes urban consumers looking for fresh and organic produce, as well as institutions like restaurants and grocery stores.
 
 ## Getting Started
 
